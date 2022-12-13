@@ -17,5 +17,19 @@
     "category": "entertainment",
     "id": "1670848888504",
     "thumbnail": "http://localhost:3000/1670848888504-38079.jpg"
+  },
+  {
+    "title": "Gaziantep Bagel",
+    "content": "This king of bagels belong to Gaziantep",
+    "category": "political",
+    "id": "1670914017758",
+    "thumbnail": "http://localhost:3000/1670914017758-37999.jpg"
+  },
+  {
+    "title": "adwae",
+    "content": "aewde",
+    "category": "0",
+    "id": "1670917582740",
+    "thumbnail": "http://localhost:3000/1670917582740-26021.jpg"
   }
 ]
