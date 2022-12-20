@@ -46,9 +46,23 @@ form.addEventListener('submit', async (e) => {
     }
 });
 
+const resetForm = () => {
+    
+}
+
 const postData = async (data) => {
-    await fetch('/api/create', {
+    const result = await fetch('/api/create', {
         method: 'POST',
         body:data
-    })
+    });
+    if(result.ok){
+        const response = await result.json();
+        if(response.success){
+            displayMessage(response.message,'green');
+            resetForm();
+        }
+        if(!response.success){
+            displayMessage(response.message,'red');
+        }
+    }
 }

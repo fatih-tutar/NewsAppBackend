@@ -9,8 +9,9 @@ const createNews = async (req, res) => {
     try {
         const imageName = await imageProcess(req, id);
         news.create(req.body, id, imageName); // http://localhost:3000/image-name
-        res.send('submit successful');
+        res.json({success: true, message: 'Post created successfully.'});
     } catch (error) {
+        res.json({success: false, message: 'Something went wrong, server error!'});
         console.log('Error while creating news', error.message);
     }
 

@@ -31,5 +31,36 @@
     "category": "0",
     "id": "1670917582740",
     "thumbnail": "http://localhost:3000/1670917582740-26021.jpg"
+  },
+  {
+    "title": "test",
+    "content": "Test content",
+    "category": "tech",
+    "id": "1671004446120",
+    "thumbnail": "http://localhost:3000/1671004446120-simitbaglama.jpeg"
+  },
+  {
+    "title": "test",
+    "content": "Test content",
+    "category": "tech",
+    "featured": "on",
+    "id": "1671004520107",
+    "thumbnail": "http://localhost:3000/1671004520107-simitbaglama.jpeg"
+  },
+  {
+    "title": "test",
+    "content": "Test content",
+    "category": "tech",
+    "featured": "on",
+    "id": "1671004537879",
+    "thumbnail": "http://localhost:3000/1671004537879-simitbaglama.jpeg"
+  },
+  {
+    "title": "Green Header",
+    "content": "Some context some context",
+    "category": "tech",
+    "featured": "on",
+    "id": "1671005211637",
+    "thumbnail": "http://localhost:3000/1671005211637-simitbaglamamakinesi.png"
   }
 ]
