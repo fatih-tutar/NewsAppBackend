@@ -1,66 +1,11 @@
 [
   {
-    "title": "Test",
-    "content": "Test content",
-    "category": "entertainment",
-    "id": "1670848388870"
-  },
-  {
-    "title": "Test",
-    "content": "Test content",
-    "category": "entertainment",
-    "id": "1670848395909"
-  },
-  {
-    "title": "Street Bagel",
-    "content": "Bageler is selling bagel on the street",
-    "category": "entertainment",
-    "id": "1670848888504",
-    "thumbnail": "http://localhost:3000/1670848888504-38079.jpg"
-  },
-  {
-    "title": "Gaziantep Bagel",
-    "content": "This king of bagels belong to Gaziantep",
-    "category": "political",
-    "id": "1670914017758",
-    "thumbnail": "http://localhost:3000/1670914017758-37999.jpg"
-  },
-  {
-    "title": "adwae",
-    "content": "aewde",
-    "category": "0",
-    "id": "1670917582740",
-    "thumbnail": "http://localhost:3000/1670917582740-26021.jpg"
-  },
-  {
-    "title": "test",
-    "content": "Test content",
-    "category": "tech",
-    "id": "1671004446120",
-    "thumbnail": "http://localhost:3000/1671004446120-simitbaglama.jpeg"
-  },
-  {
-    "title": "test",
-    "content": "Test content",
+    "title": "Long Title",
+    "content": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum.",
     "category": "tech",
     "featured": "on",
-    "id": "1671004520107",
-    "thumbnail": "http://localhost:3000/1671004520107-simitbaglama.jpeg"
-  },
-  {
-    "title": "test",
-    "content": "Test content",
-    "category": "tech",
-    "featured": "on",
-    "id": "1671004537879",
-    "thumbnail": "http://localhost:3000/1671004537879-simitbaglama.jpeg"
-  },
-  {
-    "title": "Green Header",
-    "content": "Some context some context",
-    "category": "tech",
-    "featured": "on",
-    "id": "1671005211637",
-    "thumbnail": "http://localhost:3000/1671005211637-simitbaglamamakinesi.png"
+    "id": "1671544617181",
+    "desc": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the ...",
+    "thumbnail": "http://localhost:3000/1671544617181-simitbaglama.jpeg"
   }
 ]

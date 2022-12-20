@@ -47,7 +47,11 @@ form.addEventListener('submit', async (e) => {
 });
 
 const resetForm = () => {
-    
+    select('#title').value = '';
+    select('#content').value = '';
+    select('#thumbnail').value = null;
+    select('#category').value = '0';
+    select('#featured-content').checked = false;
 }
 
 const postData = async (data) => {
