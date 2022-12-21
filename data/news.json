@@ -1,11 +1,51 @@
 [
   {
-    "title": "Long Title",
-    "content": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum.",
+    "title": "Gülşen’in yargılandığı davada duruşma ertelendi",
+    "content": "Ünlü şarkıcı Gülşen bir konserinde imam hatip liselilerine yönelik kullandığı sözler nedeniyle hakkında ‘halkı kin ve düşmanlığa tahrik ve aşağılama’ suçundan dava açıldı. Tutuklandıktan sonra 29 Ağustos’ta tahliye edilen Gülşen’e ev hapsi adli kontrol şartı uygulandı. Bu karar da geçtiğimiz aylarda kaldırıldı.",
+    "category": "breaking-news",
+    "id": "1671623078374",
+    "desc": "Ünlü şarkıcı Gülşen bir konserinde imam hatip liselilerine yönelik kullandığı sözler nedeniyle hakkı...",
+    "thumbnail": "http://localhost:3000/1671623078374-gulsen.jpg"
+  },
+  {
+    "title": "NATO’dan Bayraktar İHA'lara övgü",
+    "content": "NATO Genel Sekreter Yardımcısı David Van Weel dünyanın ilgi gösterdiği Türk İHA’larına ilişkin açıklamalarda bulundu. Weel, ‘’Ukrayna’daki Türk İHA’ları modern savaşlarda yapılabilecek yeniliğin iyi bir örneği’’ dedi.",
     "category": "tech",
     "featured": "on",
-    "id": "1671544617181",
-    "desc": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the ...",
-    "thumbnail": "http://localhost:3000/1671544617181-simitbaglama.jpeg"
+    "id": "1671623202009",
+    "desc": "NATO Genel Sekreter Yardımcısı David Van Weel dünyanın ilgi gösterdiği Türk İHA’larına ilişkin açıkl...",
+    "thumbnail": "http://localhost:3000/1671623202009-6.jpg"
+  },
+  {
+    "title": "DEAŞ'ın sözde komutanı Ahmed Ali yakalandı",
+    "content": "Son dakika haberi: MİT ve emniyetin ortak operasyonuyla terör örgütü DEAŞ'a büyük bir darbe indirildi. DEAŞ'ın sözde sahil tabur komutanı Ahmed Ali'nin de aralarında bulunduğu 8 terörist Hatay'da kıskıvrak yakalandı.",
+    "category": "breaking-news",
+    "id": "1671623315577",
+    "desc": "Son dakika haberi: MİT ve emniyetin ortak operasyonuyla terör örgütü DEAŞ'a büyük bir darbe indirild...",
+    "thumbnail": "http://localhost:3000/1671623315577-deasss.jpg"
+  },
+  {
+    "title": "21 Aralık güncel altın fiyatları",
+    "content": "Altın geçtiğimiz gün Japonya Merkez Bankası'nın aldığı kararların etkisi ile hızlı bir yükseliş trendine girerken yurt içinde salı günü rekor bir kapanış seviyesine ulaştı. Haftaya hızlı bir giriş yapan altın bir önceki gün en yüksek bin 90 lira seviyelerine çıktı. Gram fiyatı 21 Aralık Çarşamba günü piyasalarda açılışı bin 88 lira seviyesinden yaptı.",
+    "category": "political",
+    "id": "1671623513818",
+    "desc": "Altın geçtiğimiz gün Japonya Merkez Bankası'nın aldığı kararların etkisi ile hızlı bir yükseliş tren...",
+    "thumbnail": "http://localhost:3000/1671623513818-altin.jpg"
+  },
+  {
+    "title": "Borsa güne rekor seviyeden başladı",
+    "content": "Borsa İstanbul'da BIST 100 endeksi, güne yüzde 0,56 artışla 5.449,30 puan ile rekor seviyeden başladı.",
+    "category": "tech",
+    "id": "1671623591743",
+    "desc": "Borsa İstanbul'da BIST 100 endeksi, güne yüzde 0,56 artışla 5.449,30 puan ile rekor seviyeden başlad...",
+    "thumbnail": "http://localhost:3000/1671623591743-borsa.jpg"
+  },
+  {
+    "title": "Hadise soyadı gibi açıkgöz çıktı",
+    "content": "Çalkantılı hayatıyla magazin gündeminden düşmeyen Hadise hakkında yeni bir iddia daha ortaya atıldı. İş insanı Mehmet Dinçerler’den ayrıldıktan sonra yeni bir ev satın almaya kalkan Hadise, bu evi İstanbul Yeniköy’de buldu. 40 milyon değerindeki yalı dairesini alan Hadise’nin yabancılara tanınan KDV indirimden yararlanmak için evi annesinin üzerine yaptığı öğrenildi.",
+    "category": "entertainment",
+    "id": "1671623687375",
+    "desc": "Çalkantılı hayatıyla magazin gündeminden düşmeyen Hadise hakkında yeni bir iddia daha ortaya atıldı....",
+    "thumbnail": "http://localhost:3000/1671623687375-int.jpg"
   }
 ]
